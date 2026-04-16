@@ -65,7 +65,7 @@ Acesso: Abra o navegador e digite: http://localhost/projeto_fitfood/login.php.
 👥 Integrantes e Colaboradores (SENAC Blumenau/SC)
 Angelo Dell’Agnolo Junior - Backend, Banco de Dados e Arquitetura.
 
-Felipe Carnevale Vianna Pereira
+Felipe Carnevale Vianna Pereira - Verificação de código e estrutura.
 
 Flavia Rodrigues Moraes Biagioni
 
